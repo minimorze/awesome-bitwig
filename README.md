@@ -8,7 +8,7 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
- Table of Contents
+# Table of Contents
 
 * [Awesome Bitwig](#awesome-bitwig)
 * [Other Lists](#other-lists)
